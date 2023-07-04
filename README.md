@@ -78,7 +78,7 @@ Here's an example of how to load the dataset using the Hugging Face library:
 from datasets import load_dataset
 
 # Load the Falah/Alzheimer_MRI dataset
-dataset = load_dataset('falah_alzheimer_mri', split='train')
+dataset = load_dataset('Falah/Alzheimer_MRI', split='train')
 
 # Print the number of examples and the first few samples
 print("Number of examples:", len(dataset))
