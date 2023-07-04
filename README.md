@@ -58,7 +58,7 @@ The Falah/Alzheimer_MRI Disease Classification dataset is a valuable resource fo
 ## Citation
 
 If you use this dataset in your research or health medicine applications, we kindly request that you cite the following publication:
-
+''''
 @misc{falah_dataset_alzheimer_MRI,
   author = {Falah G.Salieh},
   title = {Falah/Alzheimer_MRI Disease Classification Dataset},
@@ -67,7 +67,7 @@ If you use this dataset in your research or health medicine applications, we kin
   howpublished = {\url{https://huggingface.co/datasets/Falah/Alzheimer_MRI}},
   note = {Dataset available from Hugging Face Datasets},
 }
-
+''''
 
 ## Usage Example
 
